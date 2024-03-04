@@ -1,5 +1,4 @@
 *.o
 *.ko
 *.cmd
-*[mM]odule*
-*mod*
+*[mM]od*
